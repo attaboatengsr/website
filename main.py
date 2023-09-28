@@ -1,7 +1,8 @@
 from flask import Flask
+from flask import render_template
 
 app = Flask(__name__)
 
 @app.route("/")
 def main():
-    return "<p>Under Construction...</p>"
+    return render_template('index.html')
