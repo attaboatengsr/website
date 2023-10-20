@@ -1,3 +1,4 @@
 .b1{
-    background-image: "{{ url_for('static', filename='/css/style.css') }}";
-}
+    background-image: url('/static/img/home_bg.jpeg');
+    background-repeat: no-repeat;
+} 
