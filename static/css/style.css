@@ -1,4 +1,31 @@
-.b1{
-    background-image: url('/static/img/home_bg.jpeg');
+.navbar-container{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+
+}
+.nav-links{
+    align-items: center;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container{
+    justify-content: space-evenly;
+}
+
+
+.col-sm{
+    background-image: url('/static/img/profile.jpeg');
     background-repeat: no-repeat;
-} 
+    background-position: left;
+    background-size: contain;
+    height: 400px;
+    width: 400px;
+}
+
+
+.col-sm1{
+    font-size: 25px;
+}
