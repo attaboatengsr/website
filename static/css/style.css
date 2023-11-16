@@ -16,16 +16,16 @@
 }
 
 
-.col-sm{
-    background-image: url('/static/img/profile.jpeg');
+.col-sm img{
+    /*background-image: url('/static/img/profile.jpeg');
     background-repeat: no-repeat;
     background-position: left;
-    background-size: contain;
+    background-size: contain;*/
     height: 400px;
     width: 400px;
 }
 
 
-.col-sm1{
+col-sm1{
     font-size: 25px;
 }
