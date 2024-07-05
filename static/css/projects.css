@@ -1,0 +1,41 @@
+
+.navbar-container{
+    width: 100%;
+    height: 5vh;
+}
+
+.navbar-container a{
+    padding-right: 50px;
+    float: right;
+    font-size: 16px;
+
+}
+
+.python-icon{
+    height: 65px;
+    width: 65px;
+}
+
+.csharp-icon{
+    height: 50px;
+    width: 90px;
+}
+
+.cpp-icon{
+    height: 80px;
+    width: 80px;
+}
+
+.javascript-icon{
+    height: 50px;
+    width: 50px;
+}
+
+.figma-icon{
+    height: 80px;
+    width: 80px;
+}
+
+.project-items li{
+    font-size: 20px;
+}
