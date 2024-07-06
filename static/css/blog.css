@@ -11,6 +11,13 @@
 }
 
 .year-up-arrow-button{
+    display: none;
+    border: none;
+    background: none;
+}
+
+.year-down-arrow-button{
+    /*display: none;*/
     border: none;
     background: none;
 }
